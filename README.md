@@ -1,4 +1,5 @@
 # 🏋️‍♂️ M.A.S – Musculação, Alimentação e Saúde
+![Tela Home](img.png)
 
 **M.A.S (Musculação, Alimentação e Saúde)** é um site informativo desenvolvido como **projeto acadêmico (escolar)**, com o objetivo de incentivar hábitos saudáveis por meio da prática de exercícios físicos e de uma alimentação equilibrada.
 
