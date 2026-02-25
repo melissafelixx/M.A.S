@@ -33,14 +33,14 @@ Ajudar os usuários a:
 - 📋 Planejamento de dieta e rotina de treinos  
 - 🎥 Área de vídeo-aulas disponibilizadas por um coach parceiro  
 
-> ⚠️ **Observação:**  
+> ⚠️ **Observaçã:**  
 > A área de vídeo-aulas encontra-se atualmente **fora do ar**, pois os vídeos foram arquivados pelo coach. A funcionalidade permanece no site apenas para fins demonstrativos do projeto acadêmico.
 
 ---
-🛠️ **Tecnologias Utilizadas**
-HTML5 — Estrutura da aplicação
-CSS3 — Estilização responsiva
-JavaScript — Efeitos Visuais
+## 🛠️ Tecnologias Utilizadas
+- HTML5 — Estrutura da aplicação
+- CSS3 — Estilização responsiva
+- JavaScript — Efeitos Visuais
 
 ---
 
