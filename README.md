@@ -37,6 +37,12 @@ Ajudar os usuários a:
 > A área de vídeo-aulas encontra-se atualmente **fora do ar**, pois os vídeos foram arquivados pelo coach. A funcionalidade permanece no site apenas para fins demonstrativos do projeto acadêmico.
 
 ---
+🛠️ **Tecnologias Utilizadas**
+HTML5 — Estrutura da aplicação
+CSS3 — Estilização responsiva
+JavaScript — Efeitos Visuais
+
+---
 
 ## 🤝 Parceria Profissional
 
